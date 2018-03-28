@@ -19,3 +19,4 @@ Just copy paste those lines :
 ```
 
 (Sorry, I didn't have the courage to run a npm init :cry: )
+
