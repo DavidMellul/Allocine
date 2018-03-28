@@ -11,10 +11,10 @@ This is the first part of the process, as I explain in this article : <a href="h
 Just copy paste those lines :
 
 ```
-  npm install puppeteer
-  npm install readline-sync
   git clone https://github.com/DavidMellul/Allocine.git
   cd Allocine
+  npm install puppeteer
+  npm install readline-sync
   node main.js
 ```
 
